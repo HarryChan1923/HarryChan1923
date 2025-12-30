@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Guanyu Chan</h1>
+<h1 align="center">Hi 👋, I'm Harry Chan</h1>
 <h3 align="center">A student from Shanghai</h3>
 
 - 📫 How to reach me **HarryChan1319@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left"> -->
 </p>
 
 
